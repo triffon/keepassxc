@@ -19,7 +19,7 @@
     </message>
     <message>
         <source>Contributors</source>
-        <translation>Контрибутури</translation>
+        <translation>Сътрудници</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://github.com/keepassxreboot/keepassxc/graphs/contributors&quot;&gt;See Contributions on GitHub&lt;/a&gt;</source>
@@ -516,7 +516,7 @@
     </message>
     <message>
         <source>Username</source>
-        <translation>Портебител</translation>
+        <translation>Потребител</translation>
     </message>
     <message>
         <source>Sequence</source>
